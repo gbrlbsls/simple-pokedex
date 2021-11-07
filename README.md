@@ -23,7 +23,7 @@ OR
 
 ## How does it look like?
 <p>As simple as</p>
-<img src="./public/pokedex.png"></img>
+<img src="./public/pokedex.PNG"></img>
 
 
 ## How do i use it?
