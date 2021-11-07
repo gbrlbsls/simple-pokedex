@@ -2,6 +2,11 @@
 Made with react and empowered (not as much as possible) by PokeApi.
 
 ## How can i use it?
+
+You can see it running [here](https://gbrlbsls.github.io/p/simple-pokedex/index.html)
+
+OR
+
 - Clone this repository:
 
 		git clone https://github.com/gbrlbsls/simple-pokedex.git
